@@ -11,7 +11,7 @@
     <userSettings>
         <gdpr.My.MySettings>
             <setting name="serversql" serializeAs="String">
-                <value>192.168.0.57</value>
+                <value>25.94.85.142</value>
             </setting>
             <setting name="porta" serializeAs="String">
                 <value>3306</value>
